@@ -6,7 +6,7 @@ public:
         for (char x:s)right[x]++;
         set<pair<char,char>> res;
         for (char x:s){
-            if (right[x]>=1)right[x]--;
+            right[x]--;
             for (char c = 'a'; c<='z'; ++c){
                 if (left.count(c) && right[c])res.insert({x,c});
             }
