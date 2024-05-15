@@ -1,17 +1,21 @@
 class Solution {
 public:
-    int decode(int idx, string& s, map<int,int> & mp){
-        if (mp.count(idx))return mp[idx];
-        if (s[idx]=='0')return 0;
-        int res = decode(idx+1,s,mp);
-        if ((idx+1) < s.size() && (s[idx]=='1' || (s[idx]=='2' && s[idx+1]>='0' && s[idx+1]<='6'))){
-            res += decode(idx+2,s,mp);
+    map<int,int> mp;
+    string ss;
+    int dp(int i){
+        if (i >= ss.size())return 1;
+        if (mp.count(i))return mp[i];
+        int ans = 0;
+        if (ss[i]!='0'){
+            ans += dp(i+1);
         }
-        return mp[idx] = res;
+        if ((i+1)<ss.size() && (ss[i]=='1' || (ss[i]=='2' && ss[i+1]>='0' && ss[i+1]<='6'))){
+            ans += dp(i+2);
+        }
+        return mp[i] = ans;
     }
     int numDecodings(string s) {
-        map<int,int> mp;
-        mp[s.size()] = 1;
-        return decode(0,s,mp);
+        ss = s;
+        return dp(0);
     }
 };
