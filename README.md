@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShadiBahaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [1274-number-of-days-between-two-dates](https://github.com/ShadiBahaa/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 ## Bit Manipulation
 |  |
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ShadiBahaa/Leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ShadiBahaa/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
