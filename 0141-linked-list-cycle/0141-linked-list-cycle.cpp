@@ -9,10 +9,10 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode * cur = head;
         set<ListNode *> s;
-        while (cur){
-            if (s.count(cur))return true;
+        ListNode * cur = head;
+        while(cur){
+            if(s.count(cur))return true;
             s.insert(cur);
             cur = cur->next;
         }
