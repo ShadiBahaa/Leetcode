@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShadiBahaa/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ShadiBahaa/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
 | ------- |
@@ -38,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/ShadiBahaa/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShadiBahaa/Leetcode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShadiBahaa/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
