@@ -20,12 +20,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ShadiBahaa/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/ShadiBahaa/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShadiBahaa/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShadiBahaa/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ShadiBahaa/Leetcode/tree/master/0143-reorder-list) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +49,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShadiBahaa/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ShadiBahaa/Leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ShadiBahaa/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
