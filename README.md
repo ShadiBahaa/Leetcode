@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShadiBahaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShadiBahaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShadiBahaa/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ShadiBahaa/Leetcode/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShadiBahaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShadiBahaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShadiBahaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShadiBahaa/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
