@@ -1,32 +1,25 @@
 class Solution {
 public:
     int numSquares(int n) {
-        vector<int> squares;
-        for (int i = 1; i * i <= n; ++i) {
-            squares.push_back(i * i);
+        set<int> squares;
+        for (int i = 1; i*i<=n; ++i){
+            squares.insert(i*i);
         }
-
-        queue<pair<int, int>> q;
-        vector<bool> visited(n + 1, false);
-        q.push({n, 0});
+        queue<pair<int,int>> q;
+        map<int,bool> visited;
+        q.push({n,0});
         visited[n] = true;
-
-        while (!q.empty()) {
-            auto [curr, steps] = q.front();
+        while(!q.empty()){
+            pair<int,int> cur = q.front();
             q.pop();
-
-            if (curr == 0) return steps;
-
-            for (int square : squares) {
-                if (curr - square < 0) break;
-
-                if (!visited[curr - square]) {
-                    visited[curr - square] = true;
-                    q.push({curr - square, steps + 1});
+            if(cur.first == 0) return cur.second;
+            for (int square : squares){
+                if((cur.first-square >= 0) && !visited[cur.first-square]){
+                    q.push({cur.first-square,cur.second+1});
+                    visited[cur.first-square] = true;
                 }
             }
         }
-
-        return -1; // Should never reach here
+        return -1;
     }
 };
