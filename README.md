@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShadiBahaa/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
@@ -120,11 +121,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShadiBahaa/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShadiBahaa/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
