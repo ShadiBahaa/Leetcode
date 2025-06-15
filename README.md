@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ShadiBahaa/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0692-top-k-frequent-words](https://github.com/ShadiBahaa/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/ShadiBahaa/Leetcode/tree/master/0876-hand-of-straights) |
+| [0907-koko-eating-bananas](https://github.com/ShadiBahaa/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ShadiBahaa/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/ShadiBahaa/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/ShadiBahaa/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/ShadiBahaa/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShadiBahaa/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/ShadiBahaa/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
