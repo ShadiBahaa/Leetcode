@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/ShadiBahaa/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ShadiBahaa/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/ShadiBahaa/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1274-number-of-days-between-two-dates](https://github.com/ShadiBahaa/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 ## Bit Manipulation
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/ShadiBahaa/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/ShadiBahaa/Leetcode/tree/master/0876-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ShadiBahaa/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-time-based-key-value-store](https://github.com/ShadiBahaa/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/ShadiBahaa/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ShadiBahaa/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShadiBahaa/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/ShadiBahaa/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/ShadiBahaa/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ShadiBahaa/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1023-time-based-key-value-store](https://github.com/ShadiBahaa/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |
